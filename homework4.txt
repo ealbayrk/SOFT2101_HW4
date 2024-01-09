@@ -1,0 +1,9 @@
+STEP 1
+QUESTION: What are your git config commands?
+git config --global user.name "ealbayrk"
+git config --global user.email "ealbayrk0@gmail.com"
+git config --global core.editor "ealbayrk"
+
+User Name: ealbayrk
+User Email: ealbayrk0@gmail.com
+Editor: ealbayrk
